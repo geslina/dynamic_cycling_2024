@@ -1,5 +1,9 @@
 Data and code necessary to replicate the results in the paper "Dynamic cycling enhances battery lifetime".
 
+The battery aging dataset is publicly available at https://purl.stanford.edu/td676xr4322
+If you make use of this dataset, please cite:
+Geslin, A., Xu, L., Ganapathi, D. et al. Dynamic cycling enhances battery lifetime. Nat Energy (2024). https://doi.org/10.1038/s41560-024-01675-8
+
 I - System requirements
 -----
 All the analyses conducted to generate the results have been conducted either in Python or in Matlab. 
